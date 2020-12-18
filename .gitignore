@@ -1,4 +1,3 @@
-
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
 .npmrc
@@ -28,10 +27,11 @@ yarn-error.log*
 #IntellijIDEA
 .idea
 
+# vs
+.vs
 
 # VSCode
 .vscode
 
 # vim
 *.swp
-
